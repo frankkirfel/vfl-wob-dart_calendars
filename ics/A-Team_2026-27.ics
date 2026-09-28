@@ -31,7 +31,7 @@ UID:Ical8bbac868155a4bb9863e9909ae28c84c
 LOCATION:Elsterweg 5\, 38446 Wolfsburg
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:🎯 3: VfL Wolfsburg e.V. A - DC Flying Package A
+SUMMARY:🎯 3: VfL Wolfsburg e.V. A  8-4 (38-26)  DC Flying Package A
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20260926T160000Z
@@ -40,7 +40,7 @@ UID:Ical33b6b7808baf4e6c92149d413a923c35
 LOCATION:Elsterweg 5\, 38446 Wolfsburg
 SEQUENCE:0
 STATUS:CONFIRMED
-SUMMARY:🎯 4: Feral Hogs Seulingen A - VfL Wolfsburg e.V. A
+SUMMARY:🎯 4: Feral Hogs Seulingen A  4-8 (29-39)  VfL Wolfsburg e.V. A
 END:VEVENT
 BEGIN:VEVENT
 DTSTART:20261024T100000Z
